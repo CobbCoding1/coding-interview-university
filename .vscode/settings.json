@@ -7,6 +7,10 @@
     "functional": "c",
     "tuple": "c",
     "utility": "c",
-    "variant": "c"
+    "variant": "c",
+    "fstream": "c",
+    "sstream": "c",
+    "streambuf": "c",
+    "*.rh": "c"
   }
 }
